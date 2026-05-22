@@ -1,0 +1,3 @@
+[submodule "BancoPOO"]
+	path = BancoPOO
+	url = https://github.com/samusilva310109-a11y/BancoPOO.git
